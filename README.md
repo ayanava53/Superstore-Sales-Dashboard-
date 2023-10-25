@@ -1,4 +1,4 @@
-The Sales Data Analysis and Visualization project with Power BI is designed to leverage the power of Microsoft Power BI, a robust business intelligence tool, to gain valuable insights from sales data. This project involves importing, transforming, and analyzing sales data to provide actionable business insights for decision-makers. By creating interactive and visually appealing dashboards, the project aims to make data-driven decision-making more accessible and efficient.
+The Superstore Sales Data Analysis and Visualization project with Power BI is designed to leverage the power of Microsoft Power BI, a robust business intelligence tool, to gain valuable insights from sales data. This project involves importing, transforming, and analyzing sales data to provide actionable business insights for decision-makers. By creating interactive and visually appealing dashboards, the project aims to make data-driven decision-making more accessible and efficient.
 
 Methodology :
 
